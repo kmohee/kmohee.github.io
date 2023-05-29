@@ -1,0 +1,15 @@
+/* your styles go here */
+progress {
+    width: 300px;
+    border: 1px solid #2E3349;
+ }
+ progress::-webkit-progress-bar {
+    background-color: white;
+ }
+ progress::-webkit-progress-value {
+    background-color: #FBD214;
+ }
+
+ th, td {
+    padding-right: 40px;
+  }
